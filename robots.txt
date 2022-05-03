@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://simahao.top/sitemap.xml
+Sitemap: https://simahao.top/zh-cn/sitemap.xml
