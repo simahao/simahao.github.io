@@ -48,8 +48,4 @@ This is Third
 </section>
 ```
 
-{{< param categories >}}
-
 {{< vimeo 146022717 >}}
-
-{{< youtube w7Ft2ymGmfc >}}
